@@ -4,11 +4,12 @@
 - 👋 Hi, I’m @Ireby
 - 👀 I’m interested in Work on Code's...
 - 💞️ I’m looking to collaborate on Projects...
--  <img align="right" alt="Coding" width="400" src="https://www.stockvault.net/data/2016/03/21/189035/preview16.jpg">
+- 
 ![](https://img.shields.io/badge/NiceTo-MeetYou-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 --
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Ireby>&theme=<THEME_NAME>" />
+ <img align="right" alt="Coding" width="400" src="https://www.stockvault.net/data/2016/03/21/189035/preview16.jpg">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
