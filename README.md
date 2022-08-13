@@ -1,4 +1,4 @@
-# Hello
+# ☆*: .｡. o(≧▽≦)o .｡.:*☆
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Write-HML5-informational?style=flat&logo=<sure>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<sure>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Use-Node-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Use-Nmp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Write-Markdown-informational?style=flat&logo=<sure>&logoColor=white&color=2bbc8a)
 
 - 👋 I’m @Ireby
