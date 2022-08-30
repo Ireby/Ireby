@@ -1,23 +1,70 @@
-# 👋 Welcomme
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Write-HML5-informational?style=flat&logo=<sure>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<sure>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Use-Node-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Use-Nmp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Write-Markdown-informational?style=flat&logo=<sure>&logoColor=white&color=2bbc8a)
+![banner](https://user-images.githubusercontent.com/100000496/187541790-43cd707d-7f47-4c85-b0cc-e2b638888011.png)
 
-- 🟢 I’m @Ireby
--  ⚜ I’m interested in Work on Code's...
-- 💞️ I’m looking to collaborate in Projects...
- 
-![](https://img.shields.io/badge/NiceTo-MeetYou-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
---
 
- <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/yxBvGjem0eHHLkFq0hkE0E39M6TAbIEGLejfBWMfg6A/rs:fit:1134:675:1/g:ce/aHR0cHM6Ly9jb3Vy/c2V3aXJlLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOS8x/MS9lNTQwMzIwYS1m/MTI1LTQwMjEtOGYx/Yy05Y2JjODRjOTZk/ODctNmJkOTE3NTA1/MjhlLmpwZw"/>
+## 𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
 
-<h3 style='color:red' align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rebeca-urra-8225a1187" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rebecaurra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+#### I'm Rebeca from Argentina.
+
+<div aligh='left'>
+         
+🚀 I'm a passionate Full Stack Web Developer interested in front-end as much as back-end. I use React.js and Node.js complemented with other techlonogies, and I work with agile methodologies.
+         
+💼 I worked in grupal and individual projects and they all where meaningful experiences to me to grow up as a developer.
+</br> I invite you to see my projects! Scrolling down you will find my pinned repositories.
+         
+📚 Electronic Engineering student.
+         
+🌱 I’m currently learning React Native, but in other hand I am continously improving my current skills working in personal projects.
+
+🕹 My hobbies are Dance, read book's and coding.
+
+📫 You can email me at: urra.cr.z@gmail.com
+         
+</div>
+
+---
+
+### 🛠️ Tech Stack:
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Node JS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express JS Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose Badge](https://img.shields.io/badge/Mongoose-404D59?style=for-the-badge)
+![Typegoose Badge](https://img.shields.io/badge/Typegoose-404D59?style=for-the-badge)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sequelize Badge](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel Badge](	https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+   
+ <div align='center'>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ireby&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![ireby's github stats](https://github-readme-stats.vercel.app/api?username=ireby&show_icons=true&theme=default)
+      
+</div>
+
+---
+
+### 🤝🏻 Connect with me
+
+<div align='center'>
+
+[![My Portfolio Badge](https://img.shields.io/badge/my_portfolio-404D59?style=for-the-badge)](https://rebecaurra.vercel.app/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-urra-8225a1187/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"urra.cr.z@gmail.com")
+
+ </div>
+
+---
+
+<p align="center">
+   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-<!---
-Ireby/Ireby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
