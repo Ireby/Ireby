@@ -12,7 +12,7 @@
 💼 I worked in grupal and individual projects and they all where meaningful experiences to me to grow up as a developer.
 </br> I invite you to see my projects! Scrolling down you will find my pinned repositories.
          
-📚 Electronic Engineering student.
+📚 Networking & Data analyst student.
          
 🌱 I’m currently learning React Native, but in other hand I am continously improving my current skills working in personal projects.
 
