@@ -12,9 +12,8 @@
 💼 I worked in grupal and individual projects and they all where meaningful experiences to me to grow up as a developer.
 </br> I invite you to see my projects! Scrolling down you will find my pinned repositories.
          
-📚 Networking & Data analyst student.
          
-🌱 I’m currently learning React Native, but in other hand I am continously improving my current skills working in personal projects.
+🌱 I’m currently learning NET6 but in other hand I am continously improving my current skills working in personal projects.
 
 🕹 My hobbies are Dance, read book's and coding.
 
@@ -25,6 +24,10 @@
 ---
 
 ### 🛠️ Tech Stack:
+![NET6 Badge](https://img.shields.io/badge/NET6-F7DF1E?style=for-the-badge&logo=NET&logoColor=black)
+![NET CORE Badge](https://img.shields.io/badge/NET CORE-F7DF1E?style=for-the-badge&logo=NET&logoColor=black)
+![ASP NET Badge](https://img.shields.io/badge/ASPNET CORE-F7DF1E?style=for-the-badge&logo=NET&logoColor=black)
+![C# Badge](https://img.shields.io/badge/C#-F7DF1E?style=for-the-badge&logo=NET&logoColor=black)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
