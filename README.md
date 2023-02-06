@@ -25,16 +25,13 @@
 
 ### 🛠️ Tech Stack:
 ![NET6 Badge](https://img.shields.io/badge/NET6-F7DF1E?style=for-the-badge&logo=NET&logoColor=black)
-![NET CORE Badge](https://img.shields.io/badge/NET CORE-F7DF1E?style=for-the-badge&logo=NET&logoColor=black)
-![ASP NET Badge](https://img.shields.io/badge/ASPNET CORE-F7DF1E?style=for-the-badge&logo=NET&logoColor=black)
-![C# Badge](https://img.shields.io/badge/C#-F7DF1E?style=for-the-badge&logo=NET&logoColor=black)
+![C# Badge](https://img.shields.io/badge/C#-F7DF1E?style=for-the-badge&logo=NET&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node JS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express JS Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
