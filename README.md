@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/100000496/187541790-43cd707d-7f47-4c85-b0cc-e2b638888011.png)
+<!-- ![banner]() ->
 
 
 ## (❁´◡`❁) Hello <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
@@ -7,24 +7,16 @@
 
 <div aligh='left'>
          
-🚀 I'm a passionate Full Stack Web Developer interested in front-end as much as back-end. I use React.js and Node.js complemented with other techlonogies, and I work with agile methodologies.
-         
-💼 I worked in grupal and individual projects and they all where meaningful experiences to me to grow up as a developer.
-</br> I invite you to see my projects! Scrolling down you will find my pinned repositories.
-         
-         
-🌱 I’m currently learning NET6 but in other hand I am continously improving my current skills working in personal projects.
+ I'm a passionate Full Stack Developer. 
 
-🕹 My hobbies are Dance, read book's and coding.
-
-📫 You can email me at: urra.cr.z@gmail.com
+ You can email me at: urra.cr.z@gmail.com
          
 </div>
 
 ---
-
-### 🛠️ Tech Stack:
-![NET6 Badge](https://img.shields.io/badge/NET6-F7DF1E?style=for-the-badge&logo=NET&logoColor=black)
+<!--
+[### 🛠️ Tech Stack:
+[![NET6 Badge](https://img.shields.io/badge/NET6-F7DF1E?style=for-the-badge&logo=NET&logoColor=black)
 ![C# Badge](https://img.shields.io/badge/C#-F7DF1E?style=for-the-badge&logo=NET&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -42,21 +34,21 @@
 ![Sequelize Badge](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel Badge](	https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](url)
    
  <div align='center'>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ireby&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![ireby's github stats](https://github-readme-stats.vercel.app/api?username=ireby&show_icons=true&theme=default)
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ireby&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![ireby's github stats](https://github-readme-stats.vercel.app/api?username=ireby&show_icons=true&theme=default)](url)
       
-</div>
-
+</div>](url)
+-->
 ---
 
 ### 🤝🏻 Connect with me
 
 <div align='center'>
 
-[![My Portfolio Badge](https://img.shields.io/badge/my_portfolio-404D59?style=for-the-badge)](https://rebecaurra.vercel.app/)
+<!-- [![My Portfolio Badge](https://img.shields.io/badge/my_portfolio-404D59?style=for-the-badge)](https://rebecaurra.vercel.app/) -->
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-urra-8225a1187/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"urra.cr.z@gmail.com")
 
