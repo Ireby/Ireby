@@ -37,11 +37,11 @@
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](url)
 
  <div align='center'>
-  
+    --> 
 [[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ireby&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![ireby's github stats](https://github-readme-stats.vercel.app/api?username=ireby&show_icons=true&theme=default)](url)
       
 </div>](url)
-  --> 
+
 ---
 
 ### 🤝🏻 Connect with me
