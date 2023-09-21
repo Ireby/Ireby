@@ -49,8 +49,8 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
  <div align='center'>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ireby&show_icons=true&theme=gruvbox)
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ireby&show_icons=true&theme=gruvbox) -->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ireby&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ireby&layout=pie&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
@@ -59,7 +59,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=ireby&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ireby&show_icons=true)
 
- ![ireby's github stats](https://github-readme-stats.vercel.app/api?username=ireby&show_icons=true&theme=default) -->
+ <!--![ireby's github stats](https://github-readme-stats.vercel.app/api?username=ireby&show_icons=true&theme=default) -->
       
 </div>
 
@@ -76,7 +76,7 @@
  </div>
 
 ---
-
+<!--
 <p align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+</p> -->
